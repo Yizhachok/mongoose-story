@@ -1,0 +1,10 @@
+.idea/
+build/
+uploads/
+node_modules
+
+lib-cov
+coverage
+
+*.log
+.DS_Store

@@ -1,0 +1,37 @@
+{
+	"name":"mongoose-story",
+	"description":"Mongoose document history manager",
+	"private":true,
+	"version":"0.0.1",
+	"main":"./lib/story.js",
+	"homepage":"https://github.com/Yizhachok/mongoose-story",
+	"author":{
+		"name":"Maxim Segyenko",
+		"email":"maximaka0@gmail.com",
+		"url":"https://github.com/Yizhachok"
+	},
+	"contributors":[
+		{
+			"name":"Maxim Segyenko",
+			"email":"maximaka0@gmail.com"
+		}
+	],
+	"bugs":{
+		"url":"https://github.com/Yizhachok/mongoose-story/issues"
+	},
+	"repository":{
+		"type":"git",
+		"url":"git://github.com/Yizhachok/mongoose-story.git"
+	},
+	"dependencies":{
+		"lodash":"2.4.x",
+		"mongoose-transformers":"git://github.com/Yizhachok/mongoose-transformers#0.0.x"
+	},
+	"devDependencies":{
+		"mongoose":"3.8.x"
+	},
+	"engines":{
+		"node":">=0.8",
+		"npm":">=1.4.0"
+	}
+}
