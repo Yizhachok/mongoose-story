@@ -25,7 +25,7 @@
 	},
 	"dependencies":{
 		"lodash":"2.4.x",
-		"mongoose-transformers":"git://github.com/Yizhachok/mongoose-transformers#0.0.x"
+		"mongoose-transformers":"git://github.com/Yizhachok/mongoose-transformers#0.0.1"
 	},
 	"devDependencies":{
 		"mongoose":"3.8.x"
